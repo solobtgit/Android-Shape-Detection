@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:4:5-64
+	android:name
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:4:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:5:5-84
+	android:required
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:5:58-82
+	android:name
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:5:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:6:5-94
+	android:required
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:6:68-92
+	android:name
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:6:19-67
+uses-feature#android.hardware.camera.front
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:7:5-90
+	android:required
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:7:64-88
+	android:name
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:7:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:8:5-100
+	android:required
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:8:74-98
+	android:name
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:8:19-73
+application
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:24:5-63:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/solomonr/.android/build-cache/081683d6d60950972f1d769f708cd3fa0e8e494f/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:26:9-43
+	android:theme
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:28:9-40
+activity#com.michaeltroger.shapedetection.LoginActivity
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:31:9-38:20
+	android:theme
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:32:13-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:36:27-74
+activity#com.michaeltroger.shapedetection.RadioButtonActivity
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:43:9-45:51
+	android:theme
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:44:13-48
+activity#com.michaeltroger.shapedetection.SignupActivity
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:47:9-49:52
+	android:theme
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:48:13-43
+activity#com.michaeltroger.shapedetection.ShowResultPage
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:51:9-53:52
+	android:theme
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:52:13-43
+activity#com.michaeltroger.shapedetection.DetectShape
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:55:9-60:65
+	android:screenOrientation
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:59:13-50
+	android:label
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:58:13-45
+	android:configChanges
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:60:13-63
+	android:theme
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:57:13-71
+	android:name
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:56:13-40
+supports-screens
+ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:65:5-69:37
+	android:largeScreens
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:68:9-36
+	android:smallScreens
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:66:9-36
+	android:normalScreens
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:67:9-37
+	android:resizeable
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:65:23-48
+	android:anyDensity
+		ADDED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml:69:9-34
+uses-sdk
+INJECTED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:27.1.0] /Users/solomonr/.android/build-cache/b9e1aeb56914e15d2875f3f60840b449cdd5896d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/solomonr/.android/build-cache/a6ed106aaf5702b782bc13ee8c3b0bb68bc76126/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/solomonr/.android/build-cache/cd57193d8b0305e351d5acc78c18e6f6ef10bd97/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/solomonr/.android/build-cache/97647e706ac2d08615c49a974736cba5bef8b17a/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/solomonr/.android/build-cache/7abe65a061931c4cfccda6c21d94ead7d3bebfba/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/solomonr/.android/build-cache/f7342a1cd89d9fe6a6b43226b61b3ad0c6c87388/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/solomonr/.android/build-cache/6b034c015b13f856d855d7ebbda24cdd6426b691/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/solomonr/.android/build-cache/c9b3b023cd4d3360ac38aefda486215a84a2da0d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/solomonr/.android/build-cache/01000d7c0780c557525e44d9b6e22137c9ad25ff/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/solomonr/.android/build-cache/ddabd3ccc738ea0fd2ec275d9139fa4cda600098/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/solomonr/.android/build-cache/9107d75e7cd79649a3b5560443e84e5d9c3d2c91/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/solomonr/.android/build-cache/af409f2b81857195e472415ffb6ad5e48dbb92c6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/solomonr/.android/build-cache/c32ae2e643a33c1d2e29e36205e3c76eda948570/output/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/solomonr/.android/build-cache/09a3320f31682325d610d181450a1106658b80d8/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:27.1.0] /Users/solomonr/.android/build-cache/692781fe5bb497b13299dce84e0aaaa115a50b65/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/solomonr/.android/build-cache/503d0d87c4625265c3affbda89e04c5443171273/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/solomonr/.android/build-cache/081683d6d60950972f1d769f708cd3fa0e8e494f/output/AndroidManifest.xml:5:5-7:41
+MERGED from [shape-detection-master:openCVLibrary300:unspecified] /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/openCVLibrary300/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/AndroidManifest.xml

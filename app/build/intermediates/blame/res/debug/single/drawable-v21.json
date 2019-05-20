@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/solomonr/.android/build-cache/b9e1aeb56914e15d2875f3f60840b449cdd5896d/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/solomonr/.android/build-cache/692781fe5bb497b13299dce84e0aaaa115a50b65/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/solomonr/.android/build-cache/b9e1aeb56914e15d2875f3f60840b449cdd5896d/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/solomonr/.android/build-cache/b9e1aeb56914e15d2875f3f60840b449cdd5896d/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/solomonr/.android/build-cache/b9e1aeb56914e15d2875f3f60840b449cdd5896d/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

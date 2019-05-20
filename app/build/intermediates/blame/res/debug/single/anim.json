@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/push_left_in.xml",
+        "source": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/res/anim/push_left_in.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/abc_tooltip_exit.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/abc_tooltip_enter.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/solomonr/.android/build-cache/b9e1aeb56914e15d2875f3f60840b449cdd5896d/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/solomonr/.android/build-cache/cadb4c0922534651000306bb945c21fc43a2e4ec/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/push_left_out.xml",
+        "source": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/src/main/res/anim/push_left_out.xml"
+    },
+    {
+        "merged": "/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/solomonr/.android/build-cache/b9e1aeb56914e15d2875f3f60840b449cdd5896d/output/res/anim/design_snackbar_in.xml"
+    }
+]

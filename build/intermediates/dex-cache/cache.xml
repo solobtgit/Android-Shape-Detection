@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/openCVLibrary300/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cdf832e3402baa8e3d7eec76f747f3850a5f03bc">
+        <dex dex="/Users/solomonr/Desktop/logo-thiru/LoginProject/shape-detection-master/app/build/intermediates/pre-dexed/debug/classes_5d052633f8e7a3e06fc2460dff3cb488cb54c417.jar" />
+    </item>
+
+</items>
